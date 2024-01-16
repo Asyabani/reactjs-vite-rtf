@@ -4,7 +4,7 @@ body {
   overflow-x: none;
 }
 .bg-home {
-  background-image: url("/public/assets/img/bg-home.png");
+  background-image: url("./assets/img/bg-home.png");
   width: 100%;
   /* background: no-repeat; */
 }
